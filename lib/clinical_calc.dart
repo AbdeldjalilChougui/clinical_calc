@@ -13,3 +13,6 @@ export 'src/sex.dart';
 export 'src/kidney.dart';
 export 'src/body_size.dart';
 export 'src/dosing.dart';
+export 'src/chemistry.dart';
+export 'src/qtc.dart';
+export 'src/scores.dart';
