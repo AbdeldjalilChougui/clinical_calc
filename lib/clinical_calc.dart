@@ -9,3 +9,7 @@ export 'src/errors.dart'
         InvalidInputException,
         OutOfValidatedRangeException;
 export 'src/units.dart';
+export 'src/sex.dart';
+export 'src/kidney.dart';
+export 'src/body_size.dart';
+export 'src/dosing.dart';
